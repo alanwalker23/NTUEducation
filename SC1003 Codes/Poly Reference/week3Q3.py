@@ -1,0 +1,6 @@
+five0 = int(input("How many 50-cent coins do you have?"))
+two = int(input("How many 20-cent coins do you have?"))
+ten = int(input("How many 10-cent coins do you have?"))
+five = int(input("How many 5-cent coins do you have?"))
+Dollars = float(five0*0.5 + two*0.2 + ten*0.1 + five*0.05)
+print("[{:.2f}] This is how much you have in dollars".format(Dollars))

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "typeinfo": "c",
+        "PRACTICE.C": "cpp",
+        "STRUCTURESRHARD.C": "cpp"
+    }
+}
